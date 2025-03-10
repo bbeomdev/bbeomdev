@@ -32,9 +32,7 @@ Here are some ideas to get you started:
 <br/>
 
 ### Library
-<br/>
-
-<pre> 
+<pre>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> ★★★☆☆
 <img src="https://img.shields.io/badge/yolo-111F68?style=flat-square&logo=yolo&logoColor=white"/> ★★★★☆
 <a href="https://github.com/open-mmlab" target="_blank"><img src="https://avatars.githubusercontent.com/u/10245193?s=30&v=4?style=flat-square&logo=Selenium&logoColor=white"/><a/> ★★★★☆
