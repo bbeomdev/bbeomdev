@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About Me
 <!-- https://gist.github.com/rxaviers/7360908 -->
 #### :fire: 경남대학교 컴퓨터공학부(정보보안) / 빅데이터융합학 복수전공 졸업 <br/>
-#### :fire: 크몽 프리랜서 - 크롤링, 스크래핑 [정확하고, 가능한 모든 데이터 웹 크롤링/스크래핑](http://kmong.com/gig/446023)
+#### :fire: 크몽 프리랜서 - 크롤링, 스크래핑 [<정확하고, 가능한 모든 데이터 웹 크롤링/스크래핑>](http://kmong.com/gig/446023)
 <br/>
 
 ## Tech Stack
@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 ### Library
 <br/>
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> ★★★☆☆
-<img src="https://img.shields.io/badge/yolo-111F68?style=flat-square&logo=yolo&logoColor=white"/> ★★★★☆
-<a href="https://github.com/open-mmlab" target="_blank"><img src="https://avatars.githubusercontent.com/u/10245193?s=50&v=4?style=flat-square&logo=Selenium&logoColor=white"/><a/> ★★★★☆
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>★★★★★
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> ★★★☆☆ <br/>
+<img src="https://img.shields.io/badge/yolo-111F68?style=flat-square&logo=yolo&logoColor=white"/> ★★★★☆ <br/>
+<a href="https://github.com/open-mmlab" target="_blank"><img src="https://avatars.githubusercontent.com/u/10245193?s=50&v=4?style=flat-square&logo=Selenium&logoColor=white"/><a/> ★★★★☆ <br/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>★★★★★ <br/>
 BeautifulSoup4, Request ★★★★★ <br/>
-<img src="https://img.shields.io/badge/huggingface-FFD21E?style=flat-square&logo=huggingface&logoColor=white"/> ★★☆☆
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> ★★★★★
-<img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> ★★★★★
+<img src="https://img.shields.io/badge/huggingface-FFD21E?style=flat-square&logo=huggingface&logoColor=white"/> ★★☆☆ <br/>
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> ★★★★★ <br/>
+<img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> ★★★★★ <br/>
 
 <br/>
