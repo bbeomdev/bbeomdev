@@ -26,8 +26,12 @@ Here are some ideas to get you started:
 <br/>
 
 ### Library
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
-<!-- <img src="https://img.shields.io/badge/huggingface-FFD21E?style=flat-square&logo=huggingface&logoColor=white"/> -->
-<a href="https://github.com/open-mmlab" target="_blank"><img src="https://avatars.githubusercontent.com/u/10245193?s=50&v=4?style=flat-square&logo=Selenium&logoColor=white"/><a/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> ★★★☆☆
+<img src="https://img.shields.io/badge/yolo-111F68?style=flat-square&logo=yolo&logoColor=white"/> ★★★★☆
+<a href="https://github.com/open-mmlab" target="_blank"><img src="https://avatars.githubusercontent.com/u/10245193?s=50&v=4?style=flat-square&logo=Selenium&logoColor=white"/><a/> ★★★★☆
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>★★★★★
+BeautifulSoup4, Request ★★★★★
+<img src="https://img.shields.io/badge/huggingface-FFD21E?style=flat-square&logo=huggingface&logoColor=white"/> ★★☆☆☆
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> ★★★★★
+<img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> ★★★★★
 <br/>
