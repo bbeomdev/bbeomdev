@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Have%20a%20Good%20day&gradient&height=300&fontColor=ffffff)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%EC%B0%BE%EC%95%84%EC%A3%BC%EC%85%94%EC%84%9C+%EA%B0%90%EC%82%AC%ED%95%A9%EB%8B%88%EB%8B%A4.+%EC%A2%8B%EC%9D%80+%ED%95%98%EB%A3%A8+%EB%90%98%EC%84%B8%EC%9A%94!)](https://git.io/typing-svg)
