@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Have%20a%20Good%20day&gradient&height=300&fontColor=ffffff)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=020608&width=1000&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+bbeomdev%EC%9E%85%EB%8B%88%EB%8B%A4.+%EC%B0%BE%EC%95%84%EC%A3%BC%EC%85%94%EC%84%9C+%EA%B0%90%EC%82%AC%ED%95%A9%EB%8B%88%EB%8B%A4.+%EC%A2%8B%EC%9D%80+%ED%95%98%EB%A3%A8%EB%90%98%EC%84%B8%EC%9A%94!;Hello%2C+I'm+bbeomdev.+Thank+you+for+coming.+Have+a+good+day!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=020608&width=1000&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%EA%B9%80%EB%B2%94%EB%AA%A8%EC%9E%85%EB%8B%88%EB%8B%A4.+%EC%B0%BE%EC%95%84%EC%A3%BC%EC%85%94%EC%84%9C+%EA%B0%90%EC%82%AC%ED%95%A9%EB%8B%88%EB%8B%A4.+%EC%A2%8B%EC%9D%80+%ED%95%98%EB%A3%A8%EB%90%98%EC%84%B8%EC%9A%94!;Hello%2C+I'm+Beommo+Kim.+Thank+you+for+coming.+Have+a+good+day!)](https://git.io/typing-svg)
 ## About Me
 
 ## Tech Stack
