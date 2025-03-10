@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 ## Tech Stack
 ### Language
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <br/>
@@ -29,5 +28,5 @@ Here are some ideas to get you started:
 ### Library
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
-<img src="https://avatars.githubusercontent.com/u/10245193?s=50&v=4?style=flat-square&logo=Selenium&logoColor=white"/>
+<img src="https://avatars.githubusercontent.com/u/10245193?s=50&v=4?style=flat-square&logo=Selenium&logoColor=white" href="https://github.com/open-mmlab"/>
 <br/>
