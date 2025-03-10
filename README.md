@@ -28,5 +28,6 @@ Here are some ideas to get you started:
 ### Library
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/huggingface-FFD21E?style=flat-square&logo=huggingfacem&logoColor=white"/>
 <a href="https://github.com/open-mmlab"><img src="https://avatars.githubusercontent.com/u/10245193?s=50&v=4?style=flat-square&logo=Selenium&logoColor=white"/><a/>
 <br/>
