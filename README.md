@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/6ab24ddd-3766-4d3a-b79d-a405bc099295)## Hi there 👋
-
 <!--
 **bbeomdev/bbeomdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
