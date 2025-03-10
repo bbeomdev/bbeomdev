@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Have%20a%20Good%20day&color=white)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Have%20a%20Good%20day&gradient&height=300)
