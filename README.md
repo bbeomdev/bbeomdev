@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About Me
 - 경남대학교 컴퓨터공학부(정보보안) / 빅데이터융합학 복수전공 졸업
 - 크몽 프리랜서 - 크롤링, 스크래핑
-- [정확하고, 가능한 모든 데이터 웹 크롤링/스크래핑](https://kmong.com/gig/446023)
+- [정확하고, 가능한 모든 데이터 웹 크롤링/스크래핑](http://kmong.com/gig/446023)
 ## Tech Stack
 ### Language
 <br/>
