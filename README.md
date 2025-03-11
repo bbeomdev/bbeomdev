@@ -23,6 +23,8 @@
 | 2023 | [NIA AI허브 어린이 보호구역 내 등하교 및 시설물 영상 데이터 - AI 모델 개발 (Vision)](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=71796)
 | 2023 | [NIA AI허브 창원지역 특화산업 고도화 및 디지털 전환 촉진을 위한 용접 AI학습 데이터 구축 - AI 모델 개발 (Vision)](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=71761)
 | 2023 | ICNGC 학회 논문 - AI Model for Bidrectional Sign Language Translation (Vision 연구) |
+| 2024 | 한국철강 철 스크랩 가격 예측 모델 - AI 모델 개발 |
+| 2024 | ICNGC 학회 논문 - Poststure Recongnition model based on YOLOv8 for handwashing procedure evaluation (Vision 연구) |
 | 2024 | 스마트승강기 로프 결함 모니터링 시스템 - AI 모델, 모델 API 개발
 | 2024 | 제조현장 위험탐지 모니터링 시스템 - AI 모델 개발
 
