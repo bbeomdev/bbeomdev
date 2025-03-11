@@ -7,11 +7,11 @@
 
 ## 인적사항
 #### :school: 경남대학교 컴퓨터공학부(정보보안) / 빅데이터융합학 복수전공 졸업 <br/>
-#### :military_helmet: 공군 전문특기병(정보보호병) 병장 만기전역
+#### :medal_military: 공군 전문특기병(정보보호병) 병장 만기전역
 #### :email: bbeomdev@gmail.com
 
 ## 경력
-#### 현재 : Looking for a job
+#### :running: 현재 : Looking for a job
 #### :school: 경남대학교 빅데이터센터 AI모델 학부연구원 ( 2022.08~ 2025.02 )
 #### 👨‍💼 크몽 프리랜서 : 크롤링, 스크래핑 [<정확하고, 가능한 모든 데이터 웹 크롤링/스크래핑>](http://kmong.com/gig/446023) ( 2023 ~ ing )
 
