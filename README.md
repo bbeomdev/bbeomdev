@@ -23,10 +23,10 @@
 | 2022 | [NIA AI허브 인공지능 학습용 데이터 구축 사업 참여 - 관광 KVQA 데이터 검수자 ](https://www.aihub.or.kr/aihubdata/data/list.do?searchKeyword=kvqa) |
 | 2023 | [NIA AI허브 어린이 보호구역 내 등하교 및 시설물 영상 데이터 - AI 모델 개발 (Vision)](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=71796) |
 | 2023 | [NIA AI허브 창원지역 특화산업 고도화 및 디지털 전환 촉진을 위한 용접 AI학습 데이터 구축 - AI 모델 개발 (Vision)](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=71761) |
-| 2023 | [ICNGC 학회 논문 - AI Model for Bidrectional Sign Language Translation (Vision 연구) ](https://www.earticle.net/ASP/Article/448161?Key=D6AFS3Skf5mDuj41jy1ZCg%3D%3D&ReturnUrl=%2FASP%2FArticles%2F1092%3FKey%3DD6AFS3Skf5mDuj41jy1ZCg%253d%253d%26Issue%3D34186%26page%3D3&Mode=Journal) |
+| 2023 | [ICNGC 학회 포스터 - AI Model for Bidrectional Sign Language Translation (Vision 연구) ](https://www.earticle.net/ASP/Article/448161?Key=D6AFS3Skf5mDuj41jy1ZCg%3D%3D&ReturnUrl=%2FASP%2FArticles%2F1092%3FKey%3DD6AFS3Skf5mDuj41jy1ZCg%253d%253d%26Issue%3D34186%26page%3D3&Mode=Journal) |
 | 2024 | 양방향 수어 통역 시스템(특허보유)- AI 모델 개발 (Vision) |
 | 2024 | (주)한국철강 철 스크랩 가격 예측 모델 - AI 모델 개발 |
-| 2024 | ICNGC 학회 논문 - Poststure Recongnition model based on YOLOv8 for handwashing procedure evaluation (Vision 연구) |
+| 2024 | ICNGC 학회 포스터 - Poststure Recongnition model based on YOLOv8 for handwashing procedure evaluation (Vision 연구) |
 | 2024 | (주)뎁스 스마트승강기 로프 결함 모니터링 시스템 - AI 모델, 모델 API 개발 |
 | 2024 | (주)뎁스 제조현장 위험탐지 모니터링 시스템 - AI 모델 개발 |
 
