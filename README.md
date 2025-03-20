@@ -6,6 +6,7 @@
 
 
 ## 인적사항
+#### :birthday: 2000년 3월 5일
 #### :school: 경남대학교 컴퓨터공학부(정보보안) / 빅데이터융합학 복수전공 졸업 <br/>
 #### :medal_military: 공군 전문특기병(정보보호병) 병장 만기전역
 #### :email: bbeomdev@gmail.com
