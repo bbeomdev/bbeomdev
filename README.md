@@ -40,29 +40,3 @@
 | 2024 | 경남대학교 동계 일머리 사관학교 우수상(대학혁신지원사업단장상) - AI 디지털헬스케어부 
 | 2024 | [지자체 연계 디지털헬스케어 교육 과정 경진대회 대상(경상남도지사상) - AI 디지털헬스케어부](https://github.com/bbeomdev/ppo-deuk) |
 | 2024 | [경남대학교하계 일머리 사관학교 대상(경남대학교총장상) - AI 디지털헬스케어부](https://github.com/bbeomdev/ppo-deuk) |
-
-
-<br/>
-
-## 사용 가능한 기술
-### Language
-<br/>
-<pre>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> ★★★★★
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> ★★★☆☆
-</pre>
-<br/>
-
-### Library
-<pre>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> ★★★☆☆
-<img src="https://img.shields.io/badge/yolo-111F68?style=flat-square&logo=yolo&logoColor=white"/> ★★★★☆
-<a href="https://github.com/open-mmlab" target="_blank"><img src="https://avatars.githubusercontent.com/u/10245193?s=30&v=4?style=flat-square&logo=Selenium&logoColor=white"/><a/> ★★★★☆
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>★★★★★
-<b>BeautifulSoup4, Request</b> ★★★★★
-<img src="https://img.shields.io/badge/huggingface-FFD21E?style=flat-square&logo=huggingface&logoColor=white"/> ★★☆☆
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> ★★★★★
-<img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> ★★★★★
-</pre>
-
-<br/>
