@@ -39,7 +39,7 @@
 | 2023 | [NIA AI허브 창원지역 특화산업 고도화 및 디지털 전환 촉진을 위한 용접 AI학습 데이터 구축 - AI 모델 개발 (Vision)](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=71761) |
 | 2022 | [NIA AI허브 인공지능 학습용 데이터 구축 사업 참여 - 관광 KVQA 데이터 검수자 ](https://www.aihub.or.kr/aihubdata/data/list.do?searchKeyword=kvqa) |
 
-### 크몽 프리랜서 ( 23.03 ~ 25.02 )
+### 크몽 프리랜서 ( 23.03 ~ 25.02 , 판매건수 29건)
 | 프로젝트명 |
 | -- |
 | (온라인 셀링 기업) 이커머스 사이트 전상품 크롤링 및 데이터 전처리 프로그램 개발 |
