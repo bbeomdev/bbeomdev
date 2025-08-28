@@ -3,7 +3,6 @@
 <!-- 이모지 https://gist.github.com/rxaviers/7360908 -->
 # About Me
 - 제가 개발한 기술이 사람들에게  필요한 도움을 줄 때 보람을 느낍니다.
-- Looking for a job..
 
 # 보유 역량
 #### Software 
