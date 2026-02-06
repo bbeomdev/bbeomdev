@@ -8,8 +8,6 @@
 
 <!-- 이모지 https://gist.github.com/rxaviers/7360908 -->
 
-# 보유 역량
-
 #### Software 기초
 - Python FastAPI를 사용한 모델 비동기 API 구축
 - Python 크몽 프리랜서 ( 크롤링. 업무 자동화 등 프로그램 개발 ) 경험
