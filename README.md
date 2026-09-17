@@ -16,7 +16,7 @@
 
 #### Software 기초
 - Python FastAPI를 사용한 모델 비동기 API 구축. Event Driven - Message Queue ( 2024. (주)뎁스 )
-- 크몽 프리랜서 개발자 ( 크롤링. 업무 자동화 등 Python software 개발 외주 ) 경험 ( 27건 판매, 기업 2곳, 2026.08 까지 유지보수 진행중 )
+- 크몽 프리랜서 개발자 ( 크롤링. 업무 자동화 등 Python software 개발 외주 ) 경험 ( 27건 판매, 기업 2곳, 유지보수 진행중 )
 
 #### ML 기초
 - AI모델링 기초 역량 ( 빅데이터/ML 학부연구생 2년, AI모델개발 정부과제 4건 참여 - vision ai 모델 담당자 1건 )
